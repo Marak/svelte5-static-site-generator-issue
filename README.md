@@ -8,7 +8,7 @@ After `npm install`, run the development server:
 npm run dev
 ```
 
-This all works as expeted.
+This all works as expected.
 
 ### Building
 
