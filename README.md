@@ -22,6 +22,6 @@ You can preview the production build with `npm run preview`.
 
 # The Issue
 
-When previewing the build, navigate to `http://localhost:4173/user/Bobby` directly in the browser, it will 404
+When running the `build` directory from any non-vite host, navigate to `http://localhost:4173/user/Bobby` directly in the browser, it will 404
 
 **Note:** If you navigate to the root page first, then click the link to `/user/Bobby`, it works fine. The issue is only when directly linking to that page.
