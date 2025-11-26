@@ -1,6 +1,6 @@
 # svelte5-static-site-generator-issue
 
-## Start
+### Start
 
 After `npm install`, run the development server:
 
@@ -10,7 +10,7 @@ npm run dev
 
 This all works as expeted.
 
-## Building
+### Building
 
 Run the build
 
@@ -22,6 +22,6 @@ You can preview the production build with `npm run preview`.
 
 # The Issue
 
-Navigate to `http://localhost:4173/user/Bobby` directly in the browser, it will 404
+When previewing the build, navigate to `http://localhost:4173/user/Bobby` directly in the browser, it will 404
 
-Note: If you navigate to the root page first, then click the link to `/user/Bobby`, it works fine. The issue is only when directly linking to that page.
+**Note:** If you navigate to the root page first, then click the link to `/user/Bobby`, it works fine. The issue is only when directly linking to that page.
