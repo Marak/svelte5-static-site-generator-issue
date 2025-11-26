@@ -8,7 +8,7 @@
     // simulate a remote resource call to fetch data to populate the use list with three users
     users = [
       { name: "Alice", id: 1 },
-      { name: "Bob", id: 2 },
+      { name: "Bobby", id: 2 },
       { name: "Charlie", id: 3 }
     ];
 
